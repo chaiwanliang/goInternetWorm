@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e741e0ae-fbeb-4e8c-9ee2-83165b1e4815" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="ProjectId" id="1aCXOi3rZGYRX6bAwYLh5Y2aOlJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build goInternetWorm/豆瓣电影爬虫">
+    <configuration name="go build goInternetWorm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="goInternetWorm" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goInternetWorm/豆瓣电影爬虫" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/豆瓣电影爬虫/main.go" />
+      <package value="goInternetWorm/豆瓣电影爬虫" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goInternetWorm/百度贴吧爬虫" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/百度贴吧爬虫" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/百度贴吧爬虫/main.go" />
+      <package value="goInternetWorm/百度贴吧爬虫" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goInternetWorm/百度贴吧爬虫" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/百度贴吧爬虫" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/百度贴吧爬虫/main.go" />
+      <package value="goInternetWorm/百度贴吧爬虫" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="第1 页.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/awesomeProject/第1 页.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build goInternetWorm/豆瓣电影爬虫" />
+        <item itemvalue="Go Build.go build goInternetWorm" />
+        <item itemvalue="JavaScript Debug.第1 页.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="173" key="#Go_Modules_(vgo)" timestamp="1586241286190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="173" key="#Go_Modules_(vgo)/0.0.1920.1040@0.0.1920.1040" timestamp="1586241286190" />
+    <state x="679" y="161" key="#go_build_goInternetWorm/豆瓣电影爬虫" timestamp="1586311064172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="161" key="#go_build_goInternetWorm/豆瓣电影爬虫/0.0.1920.1040@0.0.1920.1040" timestamp="1586311064172" />
+    <state x="1074" y="246" key="FileChooserDialogImpl" timestamp="1586827493878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1074" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586827493878" />
+    <state width="1876" height="450" key="GridCell.Tab.0.bottom" timestamp="1586828692255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="450" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586828692255" />
+    <state width="1876" height="450" key="GridCell.Tab.0.center" timestamp="1586828692255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="450" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586828692255" />
+    <state width="1876" height="450" key="GridCell.Tab.0.left" timestamp="1586828692255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="450" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586828692255" />
+    <state width="1876" height="450" key="GridCell.Tab.0.right" timestamp="1586828692255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="450" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586828692255" />
+    <state x="774" y="141" key="SettingsEditor" timestamp="1586242698876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="141" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586242698876" />
+    <state x="1098" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586326675512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1098" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586326675512" />
+  </component>
+</project>
